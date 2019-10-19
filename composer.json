@@ -1,0 +1,22 @@
+{
+    "name": "graceas/php-html-parser",
+    "description": "HTML parser (convert html to model with given instructions).",
+    "keywords": [ "HTML Parser" ],
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Gorelov",
+            "email": "grac.ga@gmail.com",
+            "homepage": "https://github.com/Graceas",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+      "psr-0": { "HtmlParser": "src/" }
+    }
+}
