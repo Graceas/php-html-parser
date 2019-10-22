@@ -10,7 +10,7 @@ Through composer:
 
     "require": {
         ...
-        "graceas/php-html-parser": "v1.1"
+        "graceas/php-html-parser": "v1.2"
         ...
     }
 
